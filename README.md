@@ -77,7 +77,7 @@ Berikut fitur yang ada pada project aplikasi ini diantaranya,
 - Pembayaran relasi OnetoOne terhadap Pemesanan
 
 
-![database relasi.png](../../../Pictures/SS/postman1/database%20relasi.png)
+<img width="856" height="571" alt="database relasi" src="https://github.com/user-attachments/assets/6d65ccee-599a-4f51-b785-2cbebabe3a4a" />
 
 
 ## Cara menjalankan aplikasi
